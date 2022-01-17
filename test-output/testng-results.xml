@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-17T14:21:30 IST" name="Default suite" finished-at="2022-01-17T14:25:04 IST" duration-ms="213722">
+    <groups>
+    </groups>
+    <test started-at="2022-01-17T14:21:30 IST" name="Default test" finished-at="2022-01-17T14:25:04 IST" duration-ms="213722">
+      <class name="runner.WebApp">
+        <test-method is-config="true" signature="Before()[pri:0, instance:runner.WebApp@8576fa0]" started-at="2022-01-17T14:21:30 IST" name="Before" finished-at="2022-01-17T14:21:40 IST" duration-ms="9653" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method signature="HomePage()[pri:1, instance:runner.WebApp@8576fa0]" started-at="2022-01-17T14:21:40 IST" name="HomePage" finished-at="2022-01-17T14:21:41 IST" duration-ms="875" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePage -->
+        <test-method is-config="true" signature="After()[pri:0, instance:runner.WebApp@8576fa0]" started-at="2022-01-17T14:21:41 IST" name="After" finished-at="2022-01-17T14:21:41 IST" duration-ms="516" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method is-config="true" signature="Before()[pri:0, instance:runner.WebApp@8576fa0]" started-at="2022-01-17T14:21:41 IST" name="Before" finished-at="2022-01-17T14:21:55 IST" duration-ms="13588" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method signature="SignUp()[pri:2, instance:runner.WebApp@8576fa0]" started-at="2022-01-17T14:21:55 IST" name="SignUp" finished-at="2022-01-17T14:21:56 IST" duration-ms="1323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignUp -->
+        <test-method is-config="true" signature="After()[pri:0, instance:runner.WebApp@8576fa0]" started-at="2022-01-17T14:21:56 IST" name="After" finished-at="2022-01-17T14:21:56 IST" duration-ms="374" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method is-config="true" signature="Before()[pri:0, instance:runner.WebApp@8576fa0]" started-at="2022-01-17T14:21:56 IST" name="Before" finished-at="2022-01-17T14:22:06 IST" duration-ms="9934" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method signature="HomepageLogin()[pri:3, instance:runner.WebApp@8576fa0]" started-at="2022-01-17T14:22:06 IST" name="HomepageLogin" finished-at="2022-01-17T14:22:07 IST" duration-ms="1019" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomepageLogin -->
+        <test-method is-config="true" signature="After()[pri:0, instance:runner.WebApp@8576fa0]" started-at="2022-01-17T14:22:07 IST" name="After" finished-at="2022-01-17T14:22:08 IST" duration-ms="459" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method is-config="true" signature="Before()[pri:0, instance:runner.WebApp@8576fa0]" started-at="2022-01-17T14:22:08 IST" name="Before" finished-at="2022-01-17T14:22:19 IST" duration-ms="10968" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method signature="AboutPage()[pri:4, instance:runner.WebApp@8576fa0]" started-at="2022-01-17T14:22:19 IST" name="AboutPage" finished-at="2022-01-17T14:22:21 IST" duration-ms="2660" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AboutPage -->
+        <test-method is-config="true" signature="After()[pri:0, instance:runner.WebApp@8576fa0]" started-at="2022-01-17T14:22:21 IST" name="After" finished-at="2022-01-17T14:22:22 IST" duration-ms="497" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method is-config="true" signature="Before()[pri:0, instance:runner.WebApp@8576fa0]" started-at="2022-01-17T14:22:22 IST" name="Before" finished-at="2022-01-17T14:22:38 IST" duration-ms="16321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method signature="ContactPage()[pri:5, instance:runner.WebApp@8576fa0]" started-at="2022-01-17T14:22:38 IST" name="ContactPage" finished-at="2022-01-17T14:22:43 IST" duration-ms="5068" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ContactPage -->
+        <test-method is-config="true" signature="After()[pri:0, instance:runner.WebApp@8576fa0]" started-at="2022-01-17T14:22:43 IST" name="After" finished-at="2022-01-17T14:22:45 IST" duration-ms="1307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method is-config="true" signature="Before()[pri:0, instance:runner.WebApp@8576fa0]" started-at="2022-01-17T14:22:45 IST" name="Before" finished-at="2022-01-17T14:22:57 IST" duration-ms="12632" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method signature="OnewayPage()[pri:6, instance:runner.WebApp@8576fa0]" started-at="2022-01-17T14:22:57 IST" name="OnewayPage" finished-at="2022-01-17T14:23:09 IST" duration-ms="11681" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OnewayPage -->
+        <test-method is-config="true" signature="After()[pri:0, instance:runner.WebApp@8576fa0]" started-at="2022-01-17T14:23:09 IST" name="After" finished-at="2022-01-17T14:23:09 IST" duration-ms="476" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method is-config="true" signature="Before()[pri:0, instance:runner.WebApp@8576fa0]" started-at="2022-01-17T14:23:09 IST" name="Before" finished-at="2022-01-17T14:23:18 IST" duration-ms="8566" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method signature="LocalPage()[pri:7, instance:runner.WebApp@8576fa0]" started-at="2022-01-17T14:23:18 IST" name="LocalPage" finished-at="2022-01-17T14:23:34 IST" duration-ms="15668" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LocalPage -->
+        <test-method is-config="true" signature="After()[pri:0, instance:runner.WebApp@8576fa0]" started-at="2022-01-17T14:23:34 IST" name="After" finished-at="2022-01-17T14:23:34 IST" duration-ms="550" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method is-config="true" signature="Before()[pri:0, instance:runner.WebApp@8576fa0]" started-at="2022-01-17T14:23:34 IST" name="Before" finished-at="2022-01-17T14:23:43 IST" duration-ms="8776" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method signature="OutstationPage()[pri:8, instance:runner.WebApp@8576fa0]" started-at="2022-01-17T14:23:43 IST" name="OutstationPage" finished-at="2022-01-17T14:24:12 IST" duration-ms="29338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OutstationPage -->
+        <test-method is-config="true" signature="After()[pri:0, instance:runner.WebApp@8576fa0]" started-at="2022-01-17T14:24:12 IST" name="After" finished-at="2022-01-17T14:24:13 IST" duration-ms="583" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method is-config="true" signature="Before()[pri:0, instance:runner.WebApp@8576fa0]" started-at="2022-01-17T14:24:13 IST" name="Before" finished-at="2022-01-17T14:24:21 IST" duration-ms="8504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method signature="AirportPage()[pri:9, instance:runner.WebApp@8576fa0]" started-at="2022-01-17T14:24:21 IST" name="AirportPage" finished-at="2022-01-17T14:24:45 IST" duration-ms="23955" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AirportPage -->
+        <test-method is-config="true" signature="After()[pri:0, instance:runner.WebApp@8576fa0]" started-at="2022-01-17T14:24:45 IST" name="After" finished-at="2022-01-17T14:24:46 IST" duration-ms="434" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method is-config="true" signature="Before()[pri:0, instance:runner.WebApp@8576fa0]" started-at="2022-01-17T14:24:46 IST" name="Before" finished-at="2022-01-17T14:24:54 IST" duration-ms="7930" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method signature="CorporatePage()[pri:10, instance:runner.WebApp@8576fa0]" started-at="2022-01-17T14:24:54 IST" name="CorporatePage" finished-at="2022-01-17T14:25:03 IST" duration-ms="8946" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CorporatePage -->
+        <test-method is-config="true" signature="After()[pri:0, instance:runner.WebApp@8576fa0]" started-at="2022-01-17T14:25:03 IST" name="After" finished-at="2022-01-17T14:25:04 IST" duration-ms="1045" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method is-config="true" signature="flush()[pri:0, instance:runner.WebApp@8576fa0]" started-at="2022-01-17T14:25:04 IST" name="flush" finished-at="2022-01-17T14:25:04 IST" duration-ms="392" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flush -->
+      </class> <!-- runner.WebApp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
